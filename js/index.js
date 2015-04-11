@@ -1,3 +1,4 @@
+<!--this edit by dev-->
 var num = 7,
     ang = 360/num,
     rad = num*5;
